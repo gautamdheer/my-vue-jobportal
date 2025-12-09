@@ -8,8 +8,6 @@ import { RouterLink } from 'vue-router';
     import PulseLoader from 'vue-spinner/src/PulseLoader.vue';
     import axios from 'axios';
     import JobListing from './JobListing.vue';
- 
-
 
     defineProps({
         limit: Number,

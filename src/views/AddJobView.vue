@@ -2,6 +2,7 @@
 import axios from 'axios';
 import { useRouter } from 'vue-router';
 import {reactive } from 'vue';
+import { useToast } from 'vue-toastification';
 
 const router = useRouter();
 
@@ -18,6 +19,8 @@ const form = reactive({
         contactPhone:''
     }
 });
+const toast = useToast();
+
 const handleSubmit = async() =>{
 
     const newJobs = {
@@ -37,7 +40,10 @@ const handleSubmit = async() =>{
          const response = await axios.post('/api/jobs/', newJobs);
          // Use useRouter instead of direct import/object destructure
          router.push(`/jobs/${response.data.id}`);
+         toast.success('Added New Job Successfully');
     } catch (error) {
+      toast.error("Error in saving job", error);
+
         console.log("Error in saving job", error);
     }
 }
