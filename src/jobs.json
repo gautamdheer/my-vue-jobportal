@@ -111,48 +111,6 @@
         "contactEmail": "motypugum@mailinator.com",
         "contactPhone": "+1 (201) 303-2315"
       }
-    },
-    {
-      "id": "885d",
-      "title": "Ab est in sit ad lib",
-      "type": "Internship",
-      "description": "Qui dolores nisi fug",
-      "salary": "$60K - $70K",
-      "location": "Aliquid ea velit ad",
-      "company": {
-        "name": "Benjamin Bartlett Associates",
-        "description": "Nostrud veniam aspe",
-        "contactEmail": "fuquxomov@mailinator.com",
-        "contactPhone": "+1 (607) 834-2659"
-      }
-    },
-    {
-      "id": "0af5",
-      "title": "Veritatis recusandae",
-      "type": "Remote",
-      "description": "Quo nostrum inventor",
-      "salary": "$100K - $125K",
-      "location": "Dolor rem necessitat",
-      "company": {
-        "name": "Frank and Fuentes Trading",
-        "description": "Nostrud qui omnis do",
-        "contactEmail": "kyrijisebi@mailinator.com",
-        "contactPhone": "+1 (769) 302-1104"
-      }
-    },
-    {
-      "id": "2966",
-      "title": "Natus tempor sint eu",
-      "type": "Full-Time",
-      "description": "Eum architecto eum p",
-      "salary": "$100K - $125K",
-      "location": "Consequat Magni fug",
-      "company": {
-        "name": "Miranda Brady Traders",
-        "description": "Natus eius fugiat v",
-        "contactEmail": "waxawexap@mailinator.com",
-        "contactPhone": "+1 (706) 343-4824"
-      }
     }
   ]
 }
