@@ -23,7 +23,7 @@ import { useToast } from 'vue-toastification';
     });
 
     // delete job
-    const deleteJob = async() =>{
+    const deleteJob = async() => {
         try {
             const confirm = window.confirm("Are are you sure to delete the job");
            if(confirm){

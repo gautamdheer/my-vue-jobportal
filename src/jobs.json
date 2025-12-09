@@ -57,18 +57,18 @@
       }
     },
     {
-      "id": "5",
-      "title": "Full Stack Vue Developer",
-      "type": "Full-Time",
-      "description": "Exciting opportunity for a Full-Time Front-End Developer in bustling Atlanta, GA. We are seeking a talented individual with a passion for building elegant and scalable web applications. Join our team and make an impact!",
-      "location": "Atlanta, GA",
+      "title": "Full Stack Vue Developer Updated",
+      "type": "Remote",
+      "description": "Exciting opportunity for a Full-Time Front-End Developer in bustling Atlanta, GA. We are seeking a ......",
       "salary": "$90K - $100K",
+      "location": "Atlanta, GA",
       "company": {
         "name": "Browning Technologies",
         "description": "Browning Technologies is a rapidly growing technology company specializing in e-commerce solutions. We offer a dynamic and collaborative work environment where employees are encouraged to think creatively and innovate.",
         "contactEmail": "contact@consecteturadipisicing.com",
         "contactPhone": "555-555-5555"
-      }
+      },
+      "id": "5"
     },
     {
       "id": "6",
@@ -96,20 +96,6 @@
         "description": "Duis dolor Nam paria",
         "contactEmail": "wiro@mailinator.com",
         "contactPhone": "+1 (864) 687-4089"
-      }
-    },
-    {
-      "id": "44da",
-      "title": "Amet reprehenderit",
-      "type": "Remote",
-      "description": "In ut officia porro ",
-      "salary": "$60K - $70K",
-      "location": "Dolor minim et sed v",
-      "company": {
-        "name": "Robertson Waters Associates",
-        "description": "Tempora impedit deb",
-        "contactEmail": "motypugum@mailinator.com",
-        "contactPhone": "+1 (201) 303-2315"
       }
     }
   ]
