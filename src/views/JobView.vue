@@ -54,9 +54,9 @@ import { useToast } from 'vue-toastification';
     <!-- Go Back -->
     <section>
         <div class="container m-auto py-6 px-6">
-            <a href="/" class="text-green-500 hover:text-green-600 flex items-center">
+            <RouterLink to="/" class="text-green-500 hover:text-green-600 flex items-center">
                 <i class="pi pi-arrow-circle-left mr-2"></i> Back to Job Listings
-            </a>
+            </RouterLink>
         </div>
     </section>
 
